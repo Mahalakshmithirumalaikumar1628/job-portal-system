@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sJT3L3jpPa4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sthir\\OneDrive\\Documents\\job-portal-system\\backend\\JobPortalAPI\\JobPortalAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sthir\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "C:\\Users\\sthir\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
