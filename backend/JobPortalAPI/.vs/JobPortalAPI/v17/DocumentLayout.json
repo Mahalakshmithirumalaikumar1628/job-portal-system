@@ -1,12 +1,241 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\sthir\\OneDrive\\Documents\\job-portal-system\\backend\\JobPortalAPI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C273B0A3-B131-4E74-85A8-98D1CC831ADD}|JobPortalAPI.csproj|c:\\users\\sthir\\onedrive\\documents\\job-portal-system\\backend\\jobportalapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C273B0A3-B131-4E74-85A8-98D1CC831ADD}|JobPortalAPI.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C273B0A3-B131-4E74-85A8-98D1CC831ADD}|JobPortalAPI.csproj|c:\\users\\sthir\\onedrive\\documents\\job-portal-system\\backend\\jobportalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C273B0A3-B131-4E74-85A8-98D1CC831ADD}|JobPortalAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C273B0A3-B131-4E74-85A8-98D1CC831ADD}|JobPortalAPI.csproj|c:\\users\\sthir\\onedrive\\documents\\job-portal-system\\backend\\jobportalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C273B0A3-B131-4E74-85A8-98D1CC831ADD}|JobPortalAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C273B0A3-B131-4E74-85A8-98D1CC831ADD}|JobPortalAPI.csproj|c:\\users\\sthir\\onedrive\\documents\\job-portal-system\\backend\\jobportalapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C273B0A3-B131-4E74-85A8-98D1CC831ADD}|JobPortalAPI.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C273B0A3-B131-4E74-85A8-98D1CC831ADD}|JobPortalAPI.csproj|c:\\users\\sthir\\onedrive\\documents\\job-portal-system\\backend\\jobportalapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C273B0A3-B131-4E74-85A8-98D1CC831ADD}|JobPortalAPI.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C273B0A3-B131-4E74-85A8-98D1CC831ADD}|JobPortalAPI.csproj|c:\\users\\sthir\\onedrive\\documents\\job-portal-system\\backend\\jobportalapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C273B0A3-B131-4E74-85A8-98D1CC831ADD}|JobPortalAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C273B0A3-B131-4E74-85A8-98D1CC831ADD}|JobPortalAPI.csproj|c:\\users\\sthir\\onedrive\\documents\\job-portal-system\\backend\\jobportalapi\\migrations\\20260311040820_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C273B0A3-B131-4E74-85A8-98D1CC831ADD}|JobPortalAPI.csproj|solutionrelative:migrations\\20260311040820_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C273B0A3-B131-4E74-85A8-98D1CC831ADD}|JobPortalAPI.csproj|c:\\users\\sthir\\onedrive\\documents\\job-portal-system\\backend\\jobportalapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C273B0A3-B131-4E74-85A8-98D1CC831ADD}|JobPortalAPI.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C273B0A3-B131-4E74-85A8-98D1CC831ADD}|JobPortalAPI.csproj|c:\\users\\sthir\\onedrive\\documents\\job-portal-system\\backend\\jobportalapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C273B0A3-B131-4E74-85A8-98D1CC831ADD}|JobPortalAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C273B0A3-B131-4E74-85A8-98D1CC831ADD}|JobPortalAPI.csproj|c:\\users\\sthir\\onedrive\\documents\\job-portal-system\\backend\\jobportalapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C273B0A3-B131-4E74-85A8-98D1CC831ADD}|JobPortalAPI.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C273B0A3-B131-4E74-85A8-98D1CC831ADD}|JobPortalAPI.csproj|c:\\users\\sthir\\onedrive\\documents\\job-portal-system\\backend\\jobportalapi\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C273B0A3-B131-4E74-85A8-98D1CC831ADD}|JobPortalAPI.csproj|solutionrelative:dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C273B0A3-B131-4E74-85A8-98D1CC831ADD}|JobPortalAPI.csproj|c:\\users\\sthir\\onedrive\\documents\\job-portal-system\\backend\\jobportalapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C273B0A3-B131-4E74-85A8-98D1CC831ADD}|JobPortalAPI.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C273B0A3-B131-4E74-85A8-98D1CC831ADD}|JobPortalAPI.csproj|c:\\users\\sthir\\onedrive\\documents\\job-portal-system\\backend\\jobportalapi\\jobportalapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C273B0A3-B131-4E74-85A8-98D1CC831ADD}|JobPortalAPI.csproj|solutionrelative:jobportalapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\sthir\\OneDrive\\Documents\\job-portal-system\\backend\\JobPortalAPI\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\sthir\\OneDrive\\Documents\\job-portal-system\\backend\\JobPortalAPI\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-11T04:38:56.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sthir\\OneDrive\\Documents\\job-portal-system\\backend\\JobPortalAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sthir\\OneDrive\\Documents\\job-portal-system\\backend\\JobPortalAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T04:04:04.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260311040820_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\sthir\\OneDrive\\Documents\\job-portal-system\\backend\\JobPortalAPI\\Migrations\\20260311040820_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260311040820_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\sthir\\OneDrive\\Documents\\job-portal-system\\backend\\JobPortalAPI\\Migrations\\20260311040820_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260311040820_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T04:08:21.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\sthir\\OneDrive\\Documents\\job-portal-system\\backend\\JobPortalAPI\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\sthir\\OneDrive\\Documents\\job-portal-system\\backend\\JobPortalAPI\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T04:06:56.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\sthir\\OneDrive\\Documents\\job-portal-system\\backend\\JobPortalAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\sthir\\OneDrive\\Documents\\job-portal-system\\backend\\JobPortalAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T04:06:37.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sthir\\OneDrive\\Documents\\job-portal-system\\backend\\JobPortalAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\sthir\\OneDrive\\Documents\\job-portal-system\\backend\\JobPortalAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-11T04:01:35.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sthir\\OneDrive\\Documents\\job-portal-system\\backend\\JobPortalAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sthir\\OneDrive\\Documents\\job-portal-system\\backend\\JobPortalAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-11T04:09:00.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\sthir\\OneDrive\\Documents\\job-portal-system\\backend\\JobPortalAPI\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\sthir\\OneDrive\\Documents\\job-portal-system\\backend\\JobPortalAPI\\Services\\TokenService.cs",
+              "RelativeToolTip": "Services\\TokenService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T04:02:27.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sthir\\OneDrive\\Documents\\job-portal-system\\backend\\JobPortalAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\sthir\\OneDrive\\Documents\\job-portal-system\\backend\\JobPortalAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T04:01:09.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\sthir\\OneDrive\\Documents\\job-portal-system\\backend\\JobPortalAPI\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\sthir\\OneDrive\\Documents\\job-portal-system\\backend\\JobPortalAPI\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T04:00:31.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\sthir\\OneDrive\\Documents\\job-portal-system\\backend\\JobPortalAPI\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\sthir\\OneDrive\\Documents\\job-portal-system\\backend\\JobPortalAPI\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T04:00:04.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sthir\\OneDrive\\Documents\\job-portal-system\\backend\\JobPortalAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\sthir\\OneDrive\\Documents\\job-portal-system\\backend\\JobPortalAPI\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T03:59:20.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JobPortalAPI",
+              "DocumentMoniker": "C:\\Users\\sthir\\OneDrive\\Documents\\job-portal-system\\backend\\JobPortalAPI\\JobPortalAPI.csproj",
+              "RelativeDocumentMoniker": "JobPortalAPI.csproj",
+              "ToolTip": "C:\\Users\\sthir\\OneDrive\\Documents\\job-portal-system\\backend\\JobPortalAPI\\JobPortalAPI.csproj",
+              "RelativeToolTip": "JobPortalAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-11T03:56:49.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
